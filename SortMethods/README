@@ -1,0 +1,4 @@
+Notice:
+Put the folder with names in the source folder otherwise it will not work
+
+output files will print to bin under yearSorted.txt and yearSelSorted.txt
